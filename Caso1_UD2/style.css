@@ -24,7 +24,7 @@ h1 {
 
 h2 {
     color: #E74C3C;
-    text-align: center;
+    text-align: left;
 }
 
 .producto {
@@ -44,4 +44,5 @@ h2 {
     color: #27ae60;
     font-weight: bold;
     margin-top: 5px;
+
 }
